@@ -1,2 +1,2 @@
 # java-scheduling
-projeto de POO em Java da faculdade
+Projeto extensionista que foi proposto pela faculdade, da matéria POO em Java.
